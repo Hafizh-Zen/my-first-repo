@@ -6,4 +6,5 @@ Class: PBP KKI
 
 HObby : Sleep
 
+Major: Computer Science
 # my-first-repo
